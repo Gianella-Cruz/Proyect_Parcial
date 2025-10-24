@@ -1,4 +1,4 @@
-x = input('Introduce tu edad:')
+x = int(input('Introduce tu edad:'))
 if x >= 18:
     print('Adelante')
 else:
